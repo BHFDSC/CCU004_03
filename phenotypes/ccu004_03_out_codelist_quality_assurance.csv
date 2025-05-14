@@ -1,0 +1,579 @@
+name,terminology,code,term
+cocp,BNF,0703010E0AAAAAA,Ethinylest/Norethist Acet_Tab 20mcg/1mg
+cocp,BNF,0703010E0AAABAB,Ethinylest/Desogestrel_Tab 20mcg/150mcg
+cocp,BNF,0703010E0AAACAC,Ethinylestr/Gestodene_Tab 20mcg/75mcg
+cocp,BNF,0703010E0AAADAD,Levonorgest/Ethinylestr_Tab 100/20mcg
+cocp,BNF,0703010E0AAAEAE,Ethinylestr/Norelgest_24 Hr T/Derm Patch
+cocp,BNF,0703010E0AAAFAF,Ethinylestr/Drospirenone_Tab 20mcg/3mg
+cocp,BNF,0703010E0BBAAAA,Loestrin 20_Tab
+cocp,BNF,0703010E0BCAAAB,Mercilon_Tab
+cocp,BNF,0703010E0BDAAAC,Femodette_Tab
+cocp,BNF,0703010E0BEAAAD,Miranova_Tab
+cocp,BNF,0703010E0BFAAAD,Loette_Tab
+cocp,BNF,0703010E0BGAAAE,Evra_Patch
+cocp,BNF,0703010E0BHAAAC,Sunya 20/75_Tab
+cocp,BNF,0703010E0BIAAAB,Gedarel_Tab 20/150mcg
+cocp,BNF,0703010E0BJAAAC,Millinette_Tab 20/75mcg
+cocp,BNF,0703010E0BKAAAF,Yaz_Tab
+cocp,BNF,0703010E0BLAAAB,Lestramyl_Tab 20mcg/150mcg
+cocp,BNF,0703010E0BMAAAC,Aidulan_Tab 20mcg/75mcg
+cocp,BNF,0703010E0BNAAAB,Munalea_Tab 150mcg/20mcg
+cocp,BNF,0703010E0BPAAAB,Alenini_Tab 150mcg/20mcg
+cocp,BNF,0703010E0BQAAAB,Bimizza_Tab 20mcg/150mcg
+cocp,BNF,0703010E0BRAAAF,Eloine_Tab 0.02mg/3mg
+cocp,BNF,0703010E0BSAAAF,Daylette_Tab 0.02mg/3mg
+cocp,BNF,0703010E0BTAAAC,Juliperla_Tab 75mcg/20mcg
+cocp,BNF,0703010E0BUAAAC,Akizza 75microgram/20microgram tablets
+cocp,BNF,0703010F0AAAAAA,Ethinylest/Desogestrel_Tab 30mcg/150mcg
+cocp,BNF,0703010F0AAABAB,Levonorgest/Ethinylestr_Tab 250/30mcg
+cocp,BNF,0703010F0AAACAC,Ethinylest/Levonorgest_Tab 30/150mcg
+cocp,BNF,0703010F0AAADAD,Gppe Tab_Conova 30
+cocp,BNF,0703010F0AAAEAE,Ethinylestr/Gestodene_Tab 30mcg/75mcg
+cocp,BNF,0703010F0AAAFAF,Ethinylest/Norethist Acet_Tab30mcg/1.5mg
+cocp,BNF,0703010F0AAAGAG,Gppe Tab_Femodene-ED
+cocp,BNF,0703010F0AAAHAH,Gppe Tab_Microgynon 30 ED
+cocp,BNF,0703010F0AAAIAI,Ethinylestr/Dienogest_Tab 30mcg/2mg
+cocp,BNF,0703010F0AAAJAJ,Ethinylestr/Drospirenone_Tab 30mcg/3mg
+cocp,BNF,0703010F0BBAAAA,Marvelon_Tab
+cocp,BNF,0703010F0BCAAAB,Ovran 30_Tab
+cocp,BNF,0703010F0BDAAAB,Eugynon 30_Tab
+cocp,BNF,0703010F0BEAAAC,Microgynon 30_Tab
+cocp,BNF,0703010F0BEABAH,Microgynon 30 ED_Tab
+cocp,BNF,0703010F0BFAAAC,Ovranette_Tab 150mcg/30mcg
+cocp,BNF,0703010F0BGAAAD,Conova 30_Tab
+cocp,BNF,0703010F0BHAAAE,Minulet_Tab
+cocp,BNF,0703010F0BIAAAF,Loestrin 30_Tab
+cocp,BNF,0703010F0BJAAAE,Femodene_Tab
+cocp,BNF,0703010F0BJABAG,Femodene ED_Tab
+cocp,BNF,0703010F0BKAAAI,Valette_Tab
+cocp,BNF,0703010F0BLAAAJ,Yasmin_Tab
+cocp,BNF,0703010F0BMAAAE,Katya 30/75_Tab
+cocp,BNF,0703010F0BNAAAC,Levest 150/30_Tab
+cocp,BNF,0703010F0BNABAC,Levest 150/30_Tab (Actavis)
+cocp,BNF,0703010F0BPAAAC,Rigevidon_Tab
+cocp,BNF,0703010F0BQAAAA,Gedarel_Tab 30/150mcg
+cocp,BNF,0703010F0BRAAAE,Millinette_Tab 30/75mcg
+cocp,BNF,0703010F0BSAAAC,Elevin_Tab 150mcg/30mcg
+cocp,BNF,0703010F0BTAAAA,Cimizt_Tab
+cocp,BNF,0703010F0BUAAAA,Lestramyl_Tab 30mcg/150mcg
+cocp,BNF,0703010F0BVAAAJ,Lucette_Tab 0.03mg/3mg
+cocp,BNF,0703010F0BWAAAJ,Acondro_Tab 0.03mg/3mg
+cocp,BNF,0703010F0BXAAAE,Aidulan_Tab 30mcg/75mcg
+cocp,BNF,0703010F0BYAAAC,Maexeni_Tab 150mcg/30mcg
+cocp,BNF,0703010F0BZAAAA,Munalea_Tab 150mcg/30mcg
+cocp,BNF,0703010F0CBAAAA,Alenvona_Tab 150mcg/30mcg
+cocp,BNF,0703010F0CCAAAJ,Cleosensa_Tab 0.03mg/3mg
+cocp,BNF,0703010F0CDAAAC,Erlibelle_Tab 30mcg/150mcg
+cocp,BNF,0703010F0CEAAAJ,Dretine_Tab 30mcg/3mg
+cocp,BNF,0703010F0CFAAAJ,Yacella_Tab 30mcg/3mg
+cocp,BNF,0703010F0CGAAAE,Sofiperla_Tab 75mcg/30mcg
+cocp,BNF,0703010F0CHAAAJ,Yiznell_Tab 30mcg/3mg
+cocp,BNF,0703010F0CIAAAC,Leandra_Tab 30mcg/150mcg
+cocp,BNF,0703010F0CJAAAJ,Ellanite_Tab 30mcg/3mg
+cocp,BNF,0703010F0CKAAAE,Akizza 75microgram/30microgram tablets
+cocp,BNF,0703010F0CLAAAC,Ambelina 150microgram/30microgram tablets
+cocp,BNF,0703010G0AAAAAA,Ethinylest/Norethist_Tab 35mcg/500mcg
+cocp,BNF,0703010G0AAABAB,Ethinylest/Norethist_Tab 35mcg/1mg
+cocp,BNF,0703010G0AAACAC,Ethinylest/Norgestimate_Tab 35mcg/250mcg
+cocp,BNF,0703010G0BBAAAA,Ovysmen_Tab
+cocp,BNF,0703010G0BCAAAA,Brevinor_Tab
+cocp,BNF,0703010G0BDAAAB,Norimin_Tab
+cocp,BNF,0703010G0BEAAAB,Neocon 1/35_Tab
+cocp,BNF,0703010G0BFAAAC,Cilest_Tab
+cocp,BNF,0703010G0BGAAAC,Lizinna_Tab
+cocp,BNF,0703010G0BHAAAC,Cilique_Tab
+cocp,BNF,0703010H0AAAAAA,Gppe Tab_Anovlar 21
+cocp,BNF,0703010H0AAABAB,Gppe Tab_Gynovlar 21
+cocp,BNF,0703010H0AAACAC,Gppe Tab_Minovlar
+cocp,BNF,0703010H0AAADAD,Gppe Tab_Ovulen 50
+cocp,BNF,0703010H0AAAEAE,Levonorgest/Ethinylestr_Tab 250/50mcg
+cocp,BNF,0703010H0AAAFAF,Gppe Tab_Norlestrin
+cocp,BNF,0703010H0AAAGAG,Lynoest/Ethinylestr_Tab 2.5mg/50mcg
+cocp,BNF,0703010H0BBAAAA,Anovlar 21_Tab
+cocp,BNF,0703010H0BCAAAB,Gynovlar 21_Tab
+cocp,BNF,0703010H0BDAAAC,Minovlar_Tab
+cocp,BNF,0703010H0BDABA0,Minovlar ED_Tab
+cocp,BNF,0703010H0BEAAAC,Orlest 21_Tab
+cocp,BNF,0703010H0BFAAAD,Ovulen 50_Tab
+cocp,BNF,0703010H0BGAAAE,Eugynon 50_Tab
+cocp,BNF,0703010H0BHAAAE,Ovran_Tab
+cocp,BNF,0703010H0BIAAAE,Schering PC4_Tab
+cocp,BNF,0703010H0BJAAAF,Norlestrin_Tab
+cocp,BNF,0703010H0BKAAAG,Minilyn_Tab
+cocp,BNF,0703010I0AAAAAA,Ethinylestr/Gestodene_Tab 15mcg/6mcg
+cocp,BNF,0703010I0BBAAAA,Melodia_Tab 15mcg/6mcg
+cocp,BNF,0703010M0AAAAAA,Mestranol/Norethist_Tab 50mcg/1mg
+cocp,BNF,0703010M0BBAAAA,Norinyl-1_Tab
+cocp,BNF,0703010M0BCAAAA,Ortho-Novin_Tab 1/50 Pushpack
+cocp,BNF,0703010P0AAAAAA,Gppe Tab_Logynon
+cocp,BNF,0703010P0AAABAB,Gppe Tab_Binovum
+cocp,BNF,0703010P0AAACAC,Gppe Tab_Trinovum
+cocp,BNF,0703010P0AAADAD,Gppe Tab_Tri-Minulet
+cocp,BNF,0703010P0AAAEAE,Gppe Tab_Logynon ED
+cocp,BNF,0703010P0AAAFAF,Generic Synphase tablets
+cocp,BNF,0703010P0BBAAAA,Logynon_Tab
+cocp,BNF,0703010P0BBABAE,Logynon ED_Tab
+cocp,BNF,0703010P0BCAAAA,Trinordiol_Tab
+cocp,BNF,0703010P0BDAAAB,Binovum_Tab
+cocp,BNF,0703010P0BEAAAB,Synphase_Tab
+cocp,BNF,0703010P0BEAAAF,Synphase_Tab
+cocp,BNF,0703010P0BEABAF,Synphase tablets (Imported (Canada))
+cocp,BNF,0703010P0BEACAF,Synphase tablets (Imported (Germany))
+cocp,BNF,0703010P0BFAAAC,Trinovum_Tab
+cocp,BNF,0703010P0BFABA0,Trinovum ED_Tab
+cocp,BNF,0703010P0BGAAAD,Tri-Minulet_Tab
+cocp,BNF,0703010P0BHAAAD,Triadene_Tab
+cocp,BNF,0703010P0BIAAAA,TriRegol_Tab
+cocp,BNF,0703010Q0AAAAAA,Gppe Tab_Demulen
+cocp,BNF,0703010Q0BBAAAA,Demulen_Tab
+cocp,BNF,0703010R0AAAAAA,Estradiol/Estradiol+Dienogest_C/Pk Tab
+cocp,BNF,0703010R0BBAAAA,Qlaira_C/Pk Tab
+cocp,BNF,0703010S0AAAAAA,Estradiol/Nomegestrol_Tab 1.5mg/2.5mg
+cocp,BNF,0703010S0BBAAAA,Zoely_Tab 2.5mg/1.5mg
+cocp,BNF,0703010T0AAAAAA,Drospirenon 3mg / Estetrol 14.2mg tablets
+cocp,BNF,0703010T0BBAAAA,Drovelis 3mg/14.2mg tablets
+cocp,BNF,0703011A0AAAAAA,Ethinylest/Etonogest_Vag Delivery System
+cocp,BNF,0703011A0BBAAAA,NuvaRing_Vag Delivery System
+cocp,BNF,0703011A0BCAAAA,SyreniRing_Vag Delivery System
+hrt,BNF,060401100AAAAAA,Gppe Inj_Mixogen 1ml Vl
+hrt,BNF,060401100AAABAB,Ethinylestr/Methyltest_Tab 4.4mcg/3.6mg
+hrt,BNF,060401100BBAAA0,Boots_For M1033 Soln
+hrt,BNF,060401100BBBAA0,Estrofem_Tab
+hrt,BNF,060401100BBBBAA,Mixogen_Inj 1ml Vl
+hrt,BNF,060401100BBBCA0,Mixogen_Inj 2ml Vl
+hrt,BNF,060401100BBBDAB,Mixogen_Tab
+hrt,BNF,060401100BBBEA0,Oestro_Inj 2.5ml M/D Vl
+hrt,BNF,060401100BBBGA0,Presomen 0.6_Tab
+hrt,BNF,0604011ADAAAAAA,ConjOestro/Bazedoxifene_Tab450mcg/20mgMR
+hrt,BNF,0604011ADBBAAAA,Duavive_Tab 0.45mg/20mg M/R
+hrt,BNF,0604011B0AAAAAA,Dienestrol_Tab 5mg
+hrt,BNF,0604011B0AAABAB,Dienestrol_Tab 300mcg
+hrt,BNF,0604011B0AAACAC,Dienestrol_Tab 1mg
+hrt,BNF,0604011C0AAAAAA,Chlorotrianisene_Tab 24mg
+hrt,BNF,0604011C0BBAAAA,Tace_Tab 24mg
+hrt,BNF,0604011D0AAAAAA,Ethinylestr_Tab 10mcg
+hrt,BNF,0604011D0AAABAB,Ethinylestr_Tab 20mcg
+hrt,BNF,0604011D0AAACAC,Ethinylestr_Tab 50mcg
+hrt,BNF,0604011D0AAADAD,Ethinylestr_Tab 100mcg
+hrt,BNF,0604011D0AAAEAE,Ethinylestr_Tab 1mg
+hrt,BNF,0604011D0AAAFAF,Ethinylestr_Tab 10mg
+hrt,BNF,0604011D0AAAGAG,Ethinylestr_Tab 20mg
+hrt,BNF,0604011D0AAAHAH,Ethinylestr_Tab 30mcg
+hrt,BNF,0604011D0AAAIAI,Ethinylestr_Tab 5mg
+hrt,BNF,0604011D0AAAJAJ,Ethinylestr_Tab 30mg
+hrt,BNF,0604011D0AAAKAK,Ethinylestr_Tab 15mcg
+hrt,BNF,0604011D0AAALAL,Ethinylestr_Tab 2mcg
+hrt,BNF,0604011D0AAAMAM,Ethinylestr_Tab 250mcg
+hrt,BNF,0604011D0AAANAN,Ethinylestr_Tab 500mcg
+hrt,BNF,0604011D0AAAPAP,Ethinylestr_Pdrs 2mg
+hrt,BNF,0604011D0AAAQAQ,Ethinylestr_Tab 200mcg
+hrt,BNF,0604011D0AAARAR,Ethinylestr_Cap 5mcg
+hrt,BNF,0604011D0AAASAS,Ethinylestr_Tab 1mcg
+hrt,BNF,0604011D0AAATAT,Ethinylestr_Cap 5mg
+hrt,BNF,0604011D0AAAUAU,Ethinylestr_Susp 2.5mcg/5ml
+hrt,BNF,0604011D0AAAVAV,Ethinylestr_Cap 1mcg
+hrt,BNF,0604011D0AAAWAW,Ethinylestr_Cap 2mcg
+hrt,BNF,0604011D0AAAXAX,Ethinylestr_Cap 4mcg
+hrt,BNF,0604011D0AAAYAY,Ethinylestr_Pdrs 2.5mcg
+hrt,BNF,0604011D0AAAZAZ,Ethinylestr_Cap 2.5mcg
+hrt,BNF,0604011D0AABABA,Ethinylestr_Cap 10mg
+hrt,BNF,0604011D0AABBBB,Ethinylestr_Cap 15mcg
+hrt,BNF,0604011D0AABCBC,Ethinylestr_Tab 2mcg                @gn
+hrt,BNF,0604011D0AABDBD,Ethinylestr_Liq Spec 2mcg/5ml
+hrt,BNF,0604011D0AABEBE,Ethinylestr_Liq Spec 4mcg/5ml
+hrt,BNF,0604011D0AABFBF,Ethinylestr_Cap 500ng
+hrt,BNF,0604011D0BBAAAL,Estinyl_Tab 2mcg
+hrt,BNF,0604011E0AAAAAA,Gppe Tab_Controvlar
+hrt,BNF,0604011E0BBAAAA,Controvlar_Tab
+hrt,BNF,0604011F0AAAAAA,Gppe Tab_Menophase
+hrt,BNF,0604011F0BBAAAA,Menophase_C/Pk Tab
+hrt,BNF,0604011G0AAAAAA,Estradiol_Implant 25mg
+hrt,BNF,0604011G0AAABAB,Estradiol_Implant 50mg
+hrt,BNF,0604011G0AAACAC,Estradiol_Implant 100mg
+hrt,BNF,0604011G0AAADAD,Estradiol_Skin Patch 8mg
+hrt,BNF,0604011G0AAAEAE,Estradiol_Skin Patch 2mg
+hrt,BNF,0604011G0AAAFAF,Estradiol_Skin Patch 4mg
+hrt,BNF,0604011G0AAAGAG,Estradiol_Nsl Dps 0.008%
+hrt,BNF,0604011G0AAAIAI,Estradiol_Tab 2mg
+hrt,BNF,0604011G0AAAJAJ,Estradiol_Skin Patch 1.5mg
+hrt,BNF,0604011G0AAAKAK,Estradiol_Skin Patch 3.9mg
+hrt,BNF,0604011G0AAALAL,Estradiol_Skin Patch 7.8mg
+hrt,BNF,0604011G0AAAMAM,Estradiol_Skin Patch 3.2mg
+hrt,BNF,0604011G0AAANAN,Estradiol_Cap 100mcg
+hrt,BNF,0604011G0AAAQAQ,Estradiol_Skin Patch 1.6mg
+hrt,BNF,0604011G0AAARAR,Estradiol_Skin Patch 4.8mg
+hrt,BNF,0604011G0AAASAS,Estradiol_Skin Patch 6.4mg
+hrt,BNF,0604011G0AAATAT,Estradiol_Skin Patch 2.5mg
+hrt,BNF,0604011G0AAAUAU,Estradiol_Gel 0.06% 80g (64 Applic)
+hrt,BNF,0604011G0AAAVAV,Estradiol_Skin Patch 3.29mg
+hrt,BNF,0604011G0AAAWAW,Estradiol_Skin Patch 4.33mg
+hrt,BNF,0604011G0AAAXAX,Estradiol_Skin Patch 6.57mg
+hrt,BNF,0604011G0AAAYAY,Estradiol_Skin Patch 1.25mg
+hrt,BNF,0604011G0AAAZAZ,Estradiol_Nsl Dps 0.01%
+hrt,BNF,0604011G0AABABA,Estradiol_Patch 25mcg/24hrs (AMQ8)
+hrt,BNF,0604011G0AABBBB,Estradiol_Skin Patch 50mcg/24hrs
+hrt,BNF,0604011G0AABCBC,Estradiol_Skin Patch 100mcg/24hrs
+hrt,BNF,0604011G0AABDBD,Estradiol_Tab 1mg
+hrt,BNF,0604011G0AABEBE,Estradiol_Patch 40mcg/24hrs (AMQ8)
+hrt,BNF,0604011G0AABFBF,Estradiol_Skin Patch 75mcg/24hrs
+hrt,BNF,0604011G0AABGBG,Estradiol_Patch 80mcg/24hrs (AMQ8)
+hrt,BNF,0604011G0AABHBH,Estradiol_Patch 37.5mcg/24hrs (AMQ8)
+hrt,BNF,0604011G0AABIBI,Estradiol_Gel Sach 500mcg/0.5g
+hrt,BNF,0604011G0AABJBJ,Estradiol_Gel Sach 1mg/1g
+hrt,BNF,0604011G0AABLBL,Estradiol_Patch 50mcg/24hrs (AMQ8)
+hrt,BNF,0604011G0AABMBM,Estradiol_Patch 50mcg/24hrs (AMQ4)
+hrt,BNF,0604011G0AABNBN,Estradiol_Patch 100mcg/24hrs (AMQ8)
+hrt,BNF,0604011G0AABPBP,Estradiol_Patch 100mcg/24hrs (AMQ4)
+hrt,BNF,0604011G0AABQBQ,Estradiol_Patch 75mcg/24hrs (AMQ4)
+hrt,BNF,0604011G0AABRBR,Estradiol_Patch 75mcg/24hrs (AMQ8)
+hrt,BNF,0604011G0AABSBS,Estradiol_Nsl Spy 150mcg (60 D)
+hrt,BNF,0604011G0AABTBT,Estradiol_Tab 500mcg
+hrt,BNF,0604011G0AABUBU,Estradiol_Gel 0.06% 80g (64 Applic) @gn
+hrt,BNF,0604011G0AABVBV,Estradiol_Tab 5mg
+hrt,BNF,0604011G0BBAAAB,Estradiol Organon_Implant 50mg
+hrt,BNF,0604011G0BBABAC,Estradiol Organon_Implant 100mg
+hrt,BNF,0604011G0BBACAA,Estradiol Organon_Implant 25mg
+hrt,BNF,0604011G0BCAABL,Estraderm TTS 50_Patch
+hrt,BNF,0604011G0BCABBA,Estraderm TTS 25_Patch
+hrt,BNF,0604011G0BCACBN,Estraderm TTS 100_Patch
+hrt,BNF,0604011G0BCADBA,Estraderm MX 25_Patch
+hrt,BNF,0604011G0BCAEBL,Estraderm MX 50_Patch
+hrt,BNF,0604011G0BCAFBN,Estraderm MX 100_Patch
+hrt,BNF,0604011G0BCAGBR,Estraderm MX 75_Patch
+hrt,BNF,0604011G0BEAAAI,Zumenon_Tab 2mg
+hrt,BNF,0604011G0BEABBD,Zumenon_Tab 1mg
+hrt,BNF,0604011G0BFAABL,Evorel 50_Patch
+hrt,BNF,0604011G0BFABBA,Evorel 25_Patch
+hrt,BNF,0604011G0BFACBR,Evorel 75_Patch
+hrt,BNF,0604011G0BFADBN,Evorel 100_Patch
+hrt,BNF,0604011G0BHAABG,Fematrix 80_Patch
+hrt,BNF,0604011G0BHABBE,Fematrix 40_Patch
+hrt,BNF,0604011G0BIAAA0,Oestrogel_Crm
+hrt,BNF,0604011G0BIABAU,Oestrogel_Gel 0.06% 80g (64 Applic)
+hrt,BNF,0604011G0BJAABH,Menorest 37.5_Patch
+hrt,BNF,0604011G0BJABBL,Menorest 50_Patch
+hrt,BNF,0604011G0BJACBR,Menorest 75_Patch
+hrt,BNF,0604011G0BKAABL,FemSeven 50_Patch 50mcg/24hrs
+hrt,BNF,0604011G0BKAABM,FemSeven 50_Patch 50mcg/24hrs
+hrt,BNF,0604011G0BKABBQ,FemSeven 75_Patch 75mcg/24hrs
+hrt,BNF,0604011G0BKABBR,FemSeven 75_Patch 75mcg/24hrs
+hrt,BNF,0604011G0BKACBN,FemSeven 100_Patch 100mcg/24hrs
+hrt,BNF,0604011G0BKACBP,FemSeven 100_Patch 100mcg/24hrs
+hrt,BNF,0604011G0BLAABL,Progynova TS_Patch 50mcg/24hrs
+hrt,BNF,0604011G0BLAABM,Progynova TS_Patch 50mcg/24hrs
+hrt,BNF,0604011G0BLABBN,Progynova TS_Patch 100mcg/24hrs
+hrt,BNF,0604011G0BLABBP,Progynova TS_Patch 100mcg/24hrs
+hrt,BNF,0604011G0BMAABD,Elleste Solo_Tab 1mg
+hrt,BNF,0604011G0BMABAI,Elleste Solo_Tab 2mg
+hrt,BNF,0604011G0BMACBE,Elleste Solo MX 40_Patch 40mcg/24hrs
+hrt,BNF,0604011G0BMADBG,Elleste Solo MX 80_Patch 80mcg/24hrs
+hrt,BNF,0604011G0BNAABA,Dermestril 25_Patch
+hrt,BNF,0604011G0BNABBL,Dermestril 50_Patch
+hrt,BNF,0604011G0BNACBN,Dermestril 100_Patch
+hrt,BNF,0604011G0BNADBA,Dermestril Septem 25_Patch 25mcg/24hrs
+hrt,BNF,0604011G0BNAEBL,Dermestril Septem 50_Patch 50mcg/24hrs
+hrt,BNF,0604011G0BNAFBR,Dermestril Septem 75_Patch 75mcg/24hrs
+hrt,BNF,0604011G0BPAABI,Sandrena_Gel Sach 500mcg/0.5g
+hrt,BNF,0604011G0BPABBJ,Sandrena_Gel Sach 1mg/1g
+hrt,BNF,0604011G0BPACBJ,Sandrena 1mg gel sachets (Imported (Italy))
+hrt,BNF,0604011G0BRAAAI,Adgyn Estro_Tab 2mg
+hrt,BNF,0604011G0BSAABS,Aerodiol_Nsl Spy 150mcg (60 D)
+hrt,BNF,0604011G0BTAABT,Estradiol USP_Tab 500mcg
+hrt,BNF,0604011G0BUAABR,Estradot_Patch 75mcg/24hrs
+hrt,BNF,0604011G0BUABBN,Estradot_Patch 100mcg/24hrs
+hrt,BNF,0604011G0BUACBA,Estradot_Patch 25mcg/24hrs
+hrt,BNF,0604011G0BUADBH,Estradot_Patch 37.5mcg/24hrs
+hrt,BNF,0604011G0BUAEBL,Estradot_Patch 50mcg/24hrs
+hrt,BNF,0604011G0BVAAAI,Bedol_Tab 2mg
+hrt,BNF,0604011G0BWAABT,Lenzetto 1.53mg/dose transdermal spray
+hrt,BNF,0604011G0BWABBT,Lenzetto 1.53mg/dose transdermal spray (Imported (Poland))
+hrt,BNF,0604011G0BXAAAU,Gynokadin 0.06% gel
+hrt,BNF,0604011G0BYAAAU,Oestraclin 0.06% gel
+hrt,BNF,0604011H0AAAAAA,Gppe Tab_Hormonin
+hrt,BNF,0604011H0AAABAB,Gppe Cap_Apothecure Natur Estrogen
+hrt,BNF,0604011H0AAACAC,Gppe Crm_Apothecure Natur Estrogen
+hrt,BNF,0604011H0BBAAAA,Hormonin_Tab
+hrt,BNF,0604011H0BCAAAB,Apothec_Tri-Est Cap 2.5mg
+hrt,BNF,0604011H0BCABAC,Apothec_Natur Estrogen Crm
+hrt,BNF,0604011I0AAAAAA,Estradiol_Benz Inj Oily 1mg/1ml Amp
+hrt,BNF,0604011I0AAABAB,Estradiol_Benz Inj Oily 5mg/1ml Amp
+hrt,BNF,0604011I0AAACAC,Estradiol_Benz Inj Oily 5mg/ml 2ml Amp
+hrt,BNF,0604011I0AAAEAE,Estradiol_Benz Inj Oily 5mg/1ml Amp Imp
+hrt,BNF,0604011I0BBAAAA,Benztrone_Inj 1mg/1ml Amp
+hrt,BNF,0604011I0BBABAB,Benztrone_Inj 5mg/1ml Amp
+hrt,BNF,0604011I0BBACAC,Benztrone_Inj 10mg/2ml Amp
+hrt,BNF,0604011I0BCAAAE,Progynon B Oleoso_Inj 5mg/1ml Amp
+hrt,BNF,0604011J0AAAAAA,Gppe Tab_Trisequens
+hrt,BNF,0604011J0AAABAB,Gppe Tab_Trisequens Fte
+hrt,BNF,0604011J0BBAAAA,Trisequens_C/Pk Tab
+hrt,BNF,0604011J0BBABAB,Trisequens Fte_C/Pk Tab
+hrt,BNF,0604011K0AAAAAA,Estradiol_Val Tab 1mg
+hrt,BNF,0604011K0AAABAB,Estradiol_Val Tab 2mg
+hrt,BNF,0604011K0AAACAC,Estradiol_Val Tab 10mcg
+hrt,BNF,0604011K0AAADAD,Estradiol_Val Inj 10mg/1ml Amp
+hrt,BNF,0604011K0AAAEAE,Estradiol_Val Inj 5mg/1ml Amp
+hrt,BNF,0604011K0BBAAAA,Progynova_Tab 1mg
+hrt,BNF,0604011K0BBABAB,Progynova_Tab 2mg
+hrt,BNF,0604011K0BCAAAA,Climaval_Tab 1mg
+hrt,BNF,0604011K0BCABAB,Climaval_Tab 2mg
+hrt,BNF,0604011K0BDAAAD,Progynon-Depot-10_Inj 10mg/1ml Amp
+hrt,BNF,0604011K0BDABAE,Progynon Depot_Inj 5mg/1ml Amp
+hrt,BNF,0604011K0BEAAAA,FemTab_Tab 1mg
+hrt,BNF,0604011K0BEABAB,FemTab_Tab 2mg
+hrt,BNF,0604011L0AAAAAA,Gppe Pack_Estrapak 50
+hrt,BNF,0604011L0AAABAB,Estradiol Val/Levonorgest_Tab 1mg/250mcg
+hrt,BNF,0604011L0AAACAC,Estradiol Val/Norgestrel_Tab 2mg/500mcg
+hrt,BNF,0604011L0AAAFAF,Gppe Tab_Nuvelle
+hrt,BNF,0604011L0AAAGAG,Gppe Patch_Estracombi TTS
+hrt,BNF,0604011L0AAAHAH,Gppe Tab_Climagest 1mg
+hrt,BNF,0604011L0AAAIAI,Gppe Tab_Climagest 2mg
+hrt,BNF,0604011L0AAAJAJ,Gppe Pack_Evorel Pak
+hrt,BNF,0604011L0AAAKAK,Estradiol/Norethist Acet_Tab 2mg/1mg
+hrt,BNF,0604011L0AAALAL,Gppe Tab_Tridestra
+hrt,BNF,0604011L0AAAMAM,Gppe Tab_Femoston 2/10mg
+hrt,BNF,0604011L0AAANAN,Gppe Tab_Femoston 2/20mg
+hrt,BNF,0604011L0AAAPAP,Gppe Tab_Femoston 1/10mg
+hrt,BNF,0604011L0AAAQAQ,Gppe Pack_Femapak 80
+hrt,BNF,0604011L0AAARAR,Estradiol Val/Norethist_Tab 2mg/0.7mg
+hrt,BNF,0604011L0AAASAS,Gppe Tab_Divina
+hrt,BNF,0604011L0AAATAT,Gppe Tab_Elleste Duet 2mg
+hrt,BNF,0604011L0AAAUAU,Gppe Pack_Femapak 40
+hrt,BNF,0604011L0AAAWAW,Gppe Tab_Elleste Duet 1mg
+hrt,BNF,0604011L0AAAXAX,Estradiol/Norethisterone_Patch 50/170mcg
+hrt,BNF,0604011L0AAAYAY,Gppe Patch_Evorel Sequi
+hrt,BNF,0604011L0AAAZAZ,Gppe Patch_Nuvelle TS
+hrt,BNF,0604011L0AABABA,Estradiol/Norethist Acet_Tab 1mg/0.5mg
+hrt,BNF,0604011L0AABBBB,Gppe Pack_Estrapak 50 (8 Patch/12 Tab)
+hrt,BNF,0604011L0AABCBC,Gppe Pack_Estrapak 50 (24 Patch/36 Tab)
+hrt,BNF,0604011L0AABDBD,Estradiol/Dydrogesterone_Tab 1mg/5mg
+hrt,BNF,0604011L0AABEBE,Estradiol Val/Medroxyprogest_Tab 1/2.5mg
+hrt,BNF,0604011L0AABFBF,Estradiol Val/Medroxyprogest_Tab 1mg/5mg
+hrt,BNF,0604011L0AABGBG,Estradiol Val/Medroxyprogest_Tab 2mg/5mg
+hrt,BNF,0604011L0AABHBH,Gppe Tab_Novofem
+hrt,BNF,0604011L0AABIBI,Gppe Patch_FemSeven Sequi
+hrt,BNF,0604011L0AABJBJ,Gppe Patch_FemSeven Conti
+hrt,BNF,0604011L0AABKBK,Estradiol/Drospirenone_Tab 1mg/2mg
+hrt,BNF,0604011L0AABLBL,Estradiol/Dydrogesterone_Tab500mcg/2.5mg
+hrt,BNF,0604011L0AABMBM,Estradiol 1mg / Progesterone 100mg capsules
+hrt,BNF,0604011L0BBAABB,Estrapak 50_(8 Patch/12 Tab)
+hrt,BNF,0604011L0BBABBC,Estrapak 50_(24 Patch/36 Tab)
+hrt,BNF,0604011L0BCAAAB,Cyclo-Progynova_C/Pk Tab 1mg
+hrt,BNF,0604011L0BCABAC,Cyclo-Progynova_C/Pk Tab 2mg
+hrt,BNF,0604011L0BEAAAF,Nuvelle_Tab
+hrt,BNF,0604011L0BEABAZ,Nuvelle TS_Patch
+hrt,BNF,0604011L0BEACAK,Nuvelle Continuous_Tab
+hrt,BNF,0604011L0BFAAAG,Estracombi_TTS Patch
+hrt,BNF,0604011L0BGAAAH,Climagest_Tab 1mg
+hrt,BNF,0604011L0BGABAI,Climagest_Tab 2mg
+hrt,BNF,0604011L0BHAAAJ,Evorel Pak_(8 Patch/12 Tab)
+hrt,BNF,0604011L0BHABAX,Evorel Conti_Patch
+hrt,BNF,0604011L0BHACAY,Evorel Sequi_Patch
+hrt,BNF,0604011L0BIAAAK,Kliofem_Tab
+hrt,BNF,0604011L0BJAAAL,Tridestra_Tab
+hrt,BNF,0604011L0BKAAAM,Femoston 2/10mg_Tab
+hrt,BNF,0604011L0BKABAN,Femoston 2/20mg_Tab
+hrt,BNF,0604011L0BKACAP,Femoston 1/10mg_Tab
+hrt,BNF,0604011L0BKADBD,Femoston-conti_Tab 1mg/5mg
+hrt,BNF,0604011L0BKAEBL,Femoston-conti_Tab 0.5mg/2.5mg
+hrt,BNF,0604011L0BLAAAQ,Femapak 80_(8 Patch/14 Tab)
+hrt,BNF,0604011L0BLABAU,Femapak 40_(8 Patch/14 Tab)
+hrt,BNF,0604011L0BMAAAR,Climesse_Tab
+hrt,BNF,0604011L0BNAAAS,Divina_Tab
+hrt,BNF,0604011L0BPAAAT,Elleste Duet_Tab 2mg
+hrt,BNF,0604011L0BPABAW,Elleste Duet_Tab 1mg
+hrt,BNF,0604011L0BPACAK,Elleste Duet Conti_Tab
+hrt,BNF,0604011L0BRAABA,Kliovance_Tab
+hrt,BNF,0604011L0BSAAAI,Adgyn Combi_Tab
+hrt,BNF,0604011L0BTAABE,Indivina_Tab 1mg/2.5mg
+hrt,BNF,0604011L0BTABBF,Indivina_Tab 1mg/5mg
+hrt,BNF,0604011L0BTACBG,Indivina_Tab 2mg/5mg
+hrt,BNF,0604011L0BUAABH,Novofem_C/Pk Tab
+hrt,BNF,0604011L0BVAABI,FemSeven Sequi_Patch
+hrt,BNF,0604011L0BWAABJ,FemSeven Conti_Patch
+hrt,BNF,0604011L0BXAAAK,FemTab Continuous_Tab
+hrt,BNF,0604011L0BYAAAF,FemTab Sequi_Tab
+hrt,BNF,0604011L0BZAABK,Angeliq_Tab 1mg/2mg
+hrt,BNF,0604011L0CBAAA0,Clinorette_Tab
+hrt,BNF,0604011L0CCAABM,Bijuve 1mg/100mg capsules
+hrt,BNF,0604011M0AAAAAA,Estriol_Tab 250mcg
+hrt,BNF,0604011M0AAABAB,Estriol_Tab 1mg
+hrt,BNF,0604011M0BBAAAA,Ovestin_Tab 250mcg
+hrt,BNF,0604011M0BBABAB,Ovestin_Tab 1mg
+hrt,BNF,0604011N0AAAAAA,Gppe Tab_Climen
+hrt,BNF,0604011N0BBAAAA,Climen_Tab
+hrt,BNF,0604011P0AAABAB,Oestro Conj_Tab 625mcg
+hrt,BNF,0604011P0AAACAC,Oestro Conj_Tab 1.25mg
+hrt,BNF,0604011P0AAADAD,Oestro Conj_Tab 2.5mg
+hrt,BNF,0604011P0AAAEAE,Oestrogen_Cap 625mcg
+hrt,BNF,0604011P0AAAFAF,Oestro Conj_Tab 300mcg
+hrt,BNF,0604011P0BBAAAB,Premarin_Tab 625mcg
+hrt,BNF,0604011P0BBABAC,Premarin_Tab 1.25mg
+hrt,BNF,0604011P0BBACAD,Premarin_Tab 2.5mg
+hrt,BNF,0604011P0BBADAF,Premarin_Tab 300mcg (Import)
+hrt,BNF,0604011P0BBAEAC,Premarin_Tab 1.25mg C/F
+hrt,BNF,0604011P0BBAFAB,Premarin_Tab 625mcg C/F
+hrt,BNF,0604011P0BBAGAF,Premarin_Tab 300mcg
+hrt,BNF,0604011Q0AAAAAA,Conj Oestro/Norgestrel_Tab 625mcg/500mcg
+hrt,BNF,0604011Q0AAABAB,Conj Oestro/Norgestrel_Tab 1.25mg/500mcg
+hrt,BNF,0604011Q0AAACAC,Conj Oestro/Norgestrel_Tab 625mcg/150mcg
+hrt,BNF,0604011Q0AAADAD,Conj Oestro/Norgestrel_Tab 1.25mg/150mcg
+hrt,BNF,0604011Q0AAAEAE,Conj Oestro/Medroxyprog_Tab 625mcg/5mg
+hrt,BNF,0604011Q0AAAFAF,Gppe Tab_Premique Cycle (Old)
+hrt,BNF,0604011Q0AAAGAG,Gppe Tab_Premique Cycle
+hrt,BNF,0604011Q0AAAHAH,Conj Oestro/Medroxyprog_Tab 300mcg/1.5mg
+hrt,BNF,0604011Q0BBAAAA,Prempak_C/Pk Tab 625mcg/500mcg
+hrt,BNF,0604011Q0BBABAB,Prempak_C/Pk Tab 1.25mg/500mcg
+hrt,BNF,0604011Q0BBACAC,Prempak-C_C/Pk Tab 625mcg/150mcg
+hrt,BNF,0604011Q0BBADAD,Prempak-C_C/Pk Tab 1.25mg/150mcg
+hrt,BNF,0604011Q0BCAAAE,Premique_Tab (Old)
+hrt,BNF,0604011Q0BCABAF,Premique Cycle_Tab (Old)
+hrt,BNF,0604011Q0BCACAG,Premique Cycle_Tab 0.625mg/10mg
+hrt,BNF,0604011Q0BCADAE,Premique_Tab 0.625mg/5mg
+hrt,BNF,0604011Q0BCAEAH,Premique_Low D Tab 0.3mg/1.5mg
+hrt,BNF,0604011R0AAAAAA,Estropipate_Tab 1.5mg
+hrt,BNF,0604011R0BBAAAA,Harmogen_Tab 1.5mg
+hrt,BNF,0604011S0AAAAAA,Gppe Tab_Improvera
+hrt,BNF,0604011S0BBAAAA,Improvera_Tab
+hrt,BNF,0604011T0AAAAAA,Estradiol/Estriol_Tab 2mg/500mcg
+hrt,BNF,0604011T0AAABAB,Estradiol/Estriol_Cap 0.25mg/1mg
+hrt,BNF,0604011T0BBAAAA,Bi-Oestrogen_Tab
+hrt,BNF,0604011T0BCAAAB,Apothec_Bi-Est Cap 1.25mg
+hrt,BNF,0604011U0AAAAAA,Quinestradol_Cap 250mcg
+hrt,BNF,0604011U0AAABAB,Quinestradol_Cap 1mg
+hrt,BNF,0604011U0BBAAAA,Pentovis_Cap 250mcg
+hrt,BNF,0604011U0BCAAAB,Colpovis_Cap 1mg
+hrt,BNF,0604011W0AAAAAA,Quinestrol_Tab 4mg
+hrt,BNF,0604011W0BBAAAA,Estrovis_Tab 4mg
+hrt,BNF,0604011X0AAAAAA,Raloxifene HCl_Tab 60mg
+hrt,BNF,0604011X0BBAAAA,Evista_Tab 60mg
+hrt,BNF,0604011X0BCAAAA,Optruma_Tab 60mg
+hrt,BNF,0604011X0BDAAAA,Razylan_Tab 60mg
+hrt,BNF,0604011X0BEAAAA,Ostiral_Tab 60mg
+hrt,BNF,0604011X0BFAAAA,Evirex_Tab 60mg
+hrt,BNF,0604011Y0AAAAAA,Tibolone_Tab 2.5mg
+hrt,BNF,0604011Y0AAABAB,Tibolone_Tab 2.5mg                   @gn
+hrt,BNF,0604011Y0BBAAAA,Livial_Tab 2.5mg
+hrt,BNF,0604011Z0AAAAAA,Est Oestro/Methyltest_Tab 625mcg/1.25mg
+hrt,BNF,0604011Z0BBAAAA,Estratest HS_Tab
+pregnancy,SNOMED,10231000132102,In-vitro***REMOVED***fertilization***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,10562009,Malignant***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,106281000119103,Pre-existing***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10742121000119104,Asthma***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10745291000119103,Malignant***REMOVED***neoplastic***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10746341000119109,Acquired***REMOVED***immune***REMOVED***deficiency***REMOVED***syndrome***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10749871000119100,Malignant***REMOVED***neoplastic***REMOVED***disease***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,10752641000119102,Eclampsia***REMOVED***with***REMOVED***pre-existing***REMOVED***hypertension***REMOVED***in***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10753491000119101,Gestational***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10754881000119104,Diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10755671000119100,Human***REMOVED***immunodeficiency***REMOVED***virus***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10757401000119104,Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***and***REMOVED***chronic***REMOVED***kidney***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10757441000119102,Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10757481000119107,Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***and***REMOVED***chronic***REMOVED***kidney***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,10759031000119106,Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,10759351000119103,Sickle***REMOVED***cell***REMOVED***anemia***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10809101000119109,Hypothyroidism***REMOVED***in***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,1109951000000101,Pregnancy***REMOVED***insufficiently***REMOVED***advanced***REMOVED***for***REMOVED***reliable***REMOVED***antenatal***REMOVED***screening***REMOVED***(finding)
+pregnancy,SNOMED,1109971000000105,Pregnancy***REMOVED***too***REMOVED***advanced***REMOVED***for***REMOVED***reliable***REMOVED***antenatal***REMOVED***screening***REMOVED***(finding)
+pregnancy,SNOMED,118781000119108,Pre-existing***REMOVED***hypertensive***REMOVED***chronic***REMOVED***kidney***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,134781000119106,High***REMOVED***risk***REMOVED***pregnancy***REMOVED***due***REMOVED***to***REMOVED***recurrent***REMOVED***miscarriage***REMOVED***(finding)
+pregnancy,SNOMED,1474004,Hypertensive***REMOVED***heart***REMOVED***AND***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,16356006,Multiple***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,169488004,Contraceptive***REMOVED***intrauterine***REMOVED***device***REMOVED***failure***REMOVED***-***REMOVED***pregnant***REMOVED***(finding)
+pregnancy,SNOMED,169501005,"Pregnant,***REMOVED***diaphragm***REMOVED***failure***REMOVED***(finding)"
+pregnancy,SNOMED,169508004,"Pregnant,***REMOVED***sheath***REMOVED***failure***REMOVED***(finding)"
+pregnancy,SNOMED,169560008,Pregnant***REMOVED***-***REMOVED***urine***REMOVED***test***REMOVED***confirms***REMOVED***(finding)
+pregnancy,SNOMED,169561007,Pregnant***REMOVED***-***REMOVED***blood***REMOVED***test***REMOVED***confirms***REMOVED***(finding)
+pregnancy,SNOMED,169562000,Pregnant***REMOVED***-***REMOVED***vaginal***REMOVED***examination***REMOVED***confirms***REMOVED***(finding)
+pregnancy,SNOMED,169563005,Pregnant***REMOVED***-***REMOVED***on***REMOVED***history***REMOVED***(finding)
+pregnancy,SNOMED,169564004,Pregnant***REMOVED***-***REMOVED***on***REMOVED***abdominal***REMOVED***palpation***REMOVED***(finding)
+pregnancy,SNOMED,169565003,Pregnant***REMOVED***-***REMOVED***planned***REMOVED***(finding)
+pregnancy,SNOMED,169566002,Pregnant***REMOVED***-***REMOVED***unplanned***REMOVED***-***REMOVED***wanted***REMOVED***(finding)
+pregnancy,SNOMED,171054004,Pregnancy***REMOVED***diet***REMOVED***education***REMOVED***(procedure)
+pregnancy,SNOMED,171055003,Pregnancy***REMOVED***smoking***REMOVED***education***REMOVED***(procedure)
+pregnancy,SNOMED,171057006,Pregnancy***REMOVED***alcohol***REMOVED***education***REMOVED***(procedure)
+pregnancy,SNOMED,18416000,Essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,198942000,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,198944004,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***delivered***REMOVED***(disorder)"
+pregnancy,SNOMED,198945003,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***delivered***REMOVED***with***REMOVED***postnatal***REMOVED***complication***REMOVED***(disorder)"
+pregnancy,SNOMED,198946002,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***not***REMOVED***delivered***REMOVED***(disorder)"
+pregnancy,SNOMED,198947006,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***with***REMOVED***postnatal***REMOVED***complication***REMOVED***(disorder)"
+pregnancy,SNOMED,198949009,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,198951008,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***delivered***REMOVED***(disorder)"
+pregnancy,SNOMED,198952001,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***delivered***REMOVED***with***REMOVED***postnatal***REMOVED***complication***REMOVED***(disorder)"
+pregnancy,SNOMED,198953006,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***not***REMOVED***delivered***REMOVED***(disorder)"
+pregnancy,SNOMED,198954000,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***with***REMOVED***postnatal***REMOVED***complication***REMOVED***(disorder)"
+pregnancy,SNOMED,199005000,"Pre-existing***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,199006004,"Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,199007008,"Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***and***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,199008003,"Pre-existing***REMOVED***secondary***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,199223000,"Diabetes***REMOVED***mellitus***REMOVED***during***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,199225007,Diabetes***REMOVED***mellitus***REMOVED***during***REMOVED***pregnancy***REMOVED***-***REMOVED***baby***REMOVED***delivered***REMOVED***(disorder)
+pregnancy,SNOMED,199227004,Diabetes***REMOVED***mellitus***REMOVED***during***REMOVED***pregnancy***REMOVED***-***REMOVED***baby***REMOVED***not***REMOVED***yet***REMOVED***delivered***REMOVED***(disorder)
+pregnancy,SNOMED,20753005,Hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,22966008,Hypertensive***REMOVED***heart***REMOVED***AND***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,23717007,Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,237227006,Congenital***REMOVED***heart***REMOVED***disease***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,237238006,Pregnancy***REMOVED***with***REMOVED***uncertain***REMOVED***dates***REMOVED***(finding)
+pregnancy,SNOMED,237239003,Low***REMOVED***risk***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,237627000,Pregnancy***REMOVED***and***REMOVED***type***REMOVED***2***REMOVED***diabetes***REMOVED***mellitus***REMOVED***(disorder)
+pregnancy,SNOMED,240154002,Idiopathic***REMOVED***osteoporosis***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,26078007,Hypertension***REMOVED***secondary***REMOVED***to***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,276367008,Wanted***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,29259002,Malignant***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,314204000,Early***REMOVED***stage***REMOVED***of***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,34694006,Pre-existing***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,37618003,Chronic***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,40801000119106,Gestational***REMOVED***diabetes***REMOVED***mellitus***REMOVED***complicating***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,413567003,Aplastic***REMOVED***anemia***REMOVED***associated***REMOVED***with***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,428165003,Hypothyroidism***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,439311009,Intends***REMOVED***to***REMOVED***continue***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,444661007,High***REMOVED***risk***REMOVED***pregnancy***REMOVED***due***REMOVED***to***REMOVED***history***REMOVED***of***REMOVED***preterm***REMOVED***labor***REMOVED***(finding)
+pregnancy,SNOMED,449345000,Smoked***REMOVED***before***REMOVED***confirmation***REMOVED***of***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,449368009,Stopped***REMOVED***smoking***REMOVED***during***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,449369001,Stopped***REMOVED***smoking***REMOVED***before***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,459166009,Dichorionic***REMOVED***diamniotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,459167000,Monochorionic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,459168005,Monochorionic***REMOVED***diamniotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,459171002,Monochorionic***REMOVED***monoamniotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,47200007,High***REMOVED***risk***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,48552006,Hypertension***REMOVED***secondary***REMOVED***to***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,526961000000105,Pregnancy***REMOVED***advice***REMOVED***for***REMOVED***patients***REMOVED***with***REMOVED***epilepsy***REMOVED***(procedure)
+pregnancy,SNOMED,527041000000108,Pregnancy***REMOVED***advice***REMOVED***for***REMOVED***patients***REMOVED***with***REMOVED***epilepsy***REMOVED***not***REMOVED***indicated***REMOVED***(situation)
+pregnancy,SNOMED,527131000000100,Pregnancy***REMOVED***advice***REMOVED***for***REMOVED***patients***REMOVED***with***REMOVED***epilepsy***REMOVED***declined***REMOVED***(situation)
+pregnancy,SNOMED,59733002,Hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,60810003,Quadruplet***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,609563008,Pre-existing***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,609564002,Pre-existing***REMOVED***type***REMOVED***1***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,609566000,Pregnancy***REMOVED***and***REMOVED***type***REMOVED***1***REMOVED***diabetes***REMOVED***mellitus***REMOVED***(disorder)
+pregnancy,SNOMED,609567009,Pre-existing***REMOVED***type***REMOVED***2***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,64254006,Triplet***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,65147003,Twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,65402008,Pre-existing***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,713575004,Dizygotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,713576003,Monozygotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,71874008,Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,721166000,Human***REMOVED***immunodeficiency***REMOVED***virus***REMOVED***complicating***REMOVED***pregnancy***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)
+pregnancy,SNOMED,72301000119103,Asthma***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,76751001,"Diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***AND/OR***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,77386006,Pregnant***REMOVED***(finding)
+pregnancy,SNOMED,78808002,Essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,80997009,Quintuplet***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,8218002,Chronic***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,866641000000105,Pertussis***REMOVED***vaccination***REMOVED***in***REMOVED***pregnancy***REMOVED***declined***REMOVED***(situation)
+pregnancy,SNOMED,88144003,Removal***REMOVED***of***REMOVED***ectopic***REMOVED***interstitial***REMOVED***uterine***REMOVED***pregnancy***REMOVED***requiring***REMOVED***total***REMOVED***hysterectomy***REMOVED***(procedure)
+pregnancy,SNOMED,91923005,Acquired***REMOVED***immunodeficiency***REMOVED***syndrome***REMOVED***virus***REMOVED***infection***REMOVED***associated***REMOVED***with***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,91948008,Asymptomatic***REMOVED***human***REMOVED***immunodeficiency***REMOVED***virus***REMOVED***infection***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,956951000000104,Pertussis***REMOVED***vaccination***REMOVED***in***REMOVED***pregnancy***REMOVED***(procedure)
+pregnancy,SNOMED,956971000000108,Pertussis***REMOVED***vaccination***REMOVED***in***REMOVED***pregnancy***REMOVED***given***REMOVED***by***REMOVED***other***REMOVED***healthcare***REMOVED***provider***REMOVED***(finding)
+prostate_cancer,SNOMED,126906006,Neoplasm of prostate
+prostate_cancer,SNOMED,176106009,Radical cystoprostatourethrectomy
+prostate_cancer,SNOMED,176261008,Radical prostatectomy without pelvic node excision
+prostate_cancer,SNOMED,176262001,Radical prostatectomy with pelvic node sampling
+prostate_cancer,SNOMED,176263006,Radical prostatectomy with pelvic lymphadenectomy
+prostate_cancer,SNOMED,369775001,Gleason Score 2-4: Well differentiated
+prostate_cancer,SNOMED,369777009,Gleason Score 8-10: Poorly differentiated
+prostate_cancer,SNOMED,385377005,Gleason grade finding for prostatic cancer (finding)
+prostate_cancer,SNOMED,394932008,Gleason prostate grade 5-7 (medium) (finding)
+prostate_cancer,SNOMED,399068003,Malignant tumor of prostate (disorder)
+prostate_cancer,SNOMED,428262008,History of malignant neoplasm of prostate (situation)
+prostate_cancer,SNOMED,81232004,Radical cystoprostatectomy
