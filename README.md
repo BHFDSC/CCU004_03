@@ -1,4 +1,5 @@
-# Investigating the performance of the SCORE2 family-of-models during different phases of the COVID-19 pandemic
+# Using population-wide electronic health records for timely contemporary assessment of cardiovascular disease risk prediction model performance: COVID-19 impact on the SCORE2 models
+
 
 ## Project description
 
